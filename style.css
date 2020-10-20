@@ -1,0 +1,22 @@
+.parent {
+    height: 300px;
+    border: 2px purple solid;
+    display: flex;
+}
+
+.child {
+    height: 175px;
+    width: 100px;
+    margin: auto;
+    background: blueviolet;
+    padding: 5px;
+    color: goldenrod;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    /* flex style */
+}
+
+img {
+    height: 50px;
+}
